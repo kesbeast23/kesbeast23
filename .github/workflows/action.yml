@@ -17,9 +17,7 @@ jobs:
       - uses: kesbeast23/kesbeast23@main
         with:
           # WakaTime API key stored in secrets, do not directly paste it h
-          
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           # Automatic github token
           GITHUB_TOKEN: ${{ github.token }}
           # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
