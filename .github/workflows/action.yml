@@ -16,7 +16,8 @@ jobs:
       # If you have forked this project you can use <username>/Profile-Readme-WakaTime@master instead
       - uses: kesbeast23/kesbeast23@main
         with:
-          # WakaTime API key stored in secrets, do not directly paste it here
+          # WakaTime API key stored in secrets, do not directly paste it h
+          
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           # Automatic github token
