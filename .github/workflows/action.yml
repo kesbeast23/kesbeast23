@@ -11,6 +11,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: kesbeast23/kesbeast23@main
+      - uses: actions/checkout@v2
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          REPOSITORY: kesbeast23/kesbeast23
