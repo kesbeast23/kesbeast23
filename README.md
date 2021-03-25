@@ -15,7 +15,7 @@ Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com/), A software Develo
 
   <img align="right" alt="GIF" src="https://scontent.fgbe3-1.fna.fbcdn.net/v/t1.0-9/154243755_1919120741590986_5568474982879980606_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGLA6Myp1MIdFdXLP0uN6QR8Cfcs1hRgSHwJ9yzWFGBIXq30wduAIHxhJdA794iq-CIFBz3RU3Kv4UzUkfNaaxm&_nc_ohc=aG25caWQMrUAX_dCUy3&_nc_ht=scontent.fgbe3-1.fna&oh=7b8db4bc78294d2d44e6ab147314d66d&oe=607FF881" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Always up for a chat.
 - 📫 How to reach me: [@KesegoMokgosi](https://twitter.com/KesegoMokgosi);
 
 **Languages and Tools:**  
