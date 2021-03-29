@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com/), A software Developer in Botswana.
+Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com/), A software Developer  based in Gaborone,Botswana.
 
   <img align="right" alt="GIF" src="https://scontent.fgbe3-1.fna.fbcdn.net/v/t1.0-9/154243755_1919120741590986_5568474982879980606_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGLA6Myp1MIdFdXLP0uN6QR8Cfcs1hRgSHwJ9yzWFGBIXq30wduAIHxhJdA794iq-CIFBz3RU3Kv4UzUkfNaaxm&_nc_ohc=aG25caWQMrUAX_dCUy3&_nc_ht=scontent.fgbe3-1.fna&oh=7b8db4bc78294d2d44e6ab147314d66d&oe=607FF881" width="400" height="320" />
   
