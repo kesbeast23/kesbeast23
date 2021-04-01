@@ -50,4 +50,4 @@ Text     15 mins         ▒░░░░░░░░░░░░░░░░░�
 📈 GitHub Statistics
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kesbeast23&show_icons=true&theme=gotham" alt="kesbeast23" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesbeast23&layout=compact&theme=gotham)](https://github.com/kesbeast23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesbeast23&layout=compact&theme=gotham")](https://github.com/kesbeast23/github-readme-stats)
