@@ -35,7 +35,7 @@ Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com/), A software Develo
 
 📊 **This  Week:**
 
-<a href="https://github.com/kesbeast23/kesbeast23">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="@kesbeast23&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@kesbeast23&compact=True"/>
 </a>
 
