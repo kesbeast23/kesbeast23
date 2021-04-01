@@ -48,7 +48,7 @@ Text     15 mins         ▒░░░░░░░░░░░░░░░░░�
 
 <br/>
 
-📈 GitHub Statistics
+📈 GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kesbeast23&show_icons=true&theme=gotham" alt="kesbeast23" />
 
