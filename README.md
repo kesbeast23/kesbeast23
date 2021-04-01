@@ -36,6 +36,13 @@ Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com/), A software Develo
 📊 **This  Week:**
 
 <!--START_SECTION:waka-->
+```text
+Dart         18 hrs 29 mins  ███████████████████████▒░   93.97 % 
+YAML         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+JavaScript   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Properties   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+```
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesbeast23&theme=gotham&layout=compact)](https://github.com/kesbeast23/kesbeast23)
