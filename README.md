@@ -44,9 +44,8 @@ Text     15 mins         ▒░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesbeast23&layout=compact&theme=gotham")](https://github.com/kesbeast23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesbeast23&theme=gotham")](https://github.com/kesbeast23/github-readme-stats)
 
-<br/>
 
 📈 GitHub Stats
 
