@@ -35,9 +35,9 @@ Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com/), A software Develo
 
 📊 **This Week I Spent My Time On:**
 
-[![kesbeast23's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kesbeast23)](https://github.com/kesbeast23/github-readme-stats)
+[![kesbeast23's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kesbeast23theme=gotham&layout=compac)](https://github.com/kesbeast23/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesbeast23&theme=gotham&layout=compact")](https://github.com/kesbeast23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesbeast23&theme=gotham&layout=compact)](https://github.com/kesbeast23/github-readme-stats)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kesbeast23&show_icons=true&theme=gotham" alt="kesbeast23" />
 
