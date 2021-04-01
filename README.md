@@ -43,10 +43,11 @@ Python   25 mins         ▓░░░░░░░░░░░░░░░░░�
 Text     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 <!--END_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesbeast23&layout=compact&theme=gotham)](https://github.com/kesbeast23/github-readme-stats)
+
 
 <br/>
 
 📈 GitHub Statistics
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kesbeast23&show_icons=true&theme=gotham" alt="kesbeast23" />
+ <p align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesbeast23&layout=compact&theme=gotham)](https://github.com/kesbeast23/github-readme-stats)</p>
