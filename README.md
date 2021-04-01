@@ -33,7 +33,7 @@ Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com/), A software Develo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
-📊 **This Week I Spent My Time On:**
+📊 **This Week:**
 
 [![kesbeast23's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kesbeast23)](https://github.com/kesbeast23/kesbeast23)
 
