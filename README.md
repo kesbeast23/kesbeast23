@@ -47,5 +47,5 @@ XML          5 mins          ░░░░░░░░░░░░░░░░░
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesbeast23&theme=gotham&layout=compact)](https://github.com/kesbeast23/kesbeast23)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kesbeast23&show_icons=true&theme=gotham" alt="kesbeast23" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=kesbeast23&show_icons=true&theme=gotham" alt="kesbeast23" />
 
