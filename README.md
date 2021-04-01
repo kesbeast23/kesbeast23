@@ -35,7 +35,8 @@ Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com/), A software Develo
 
 📊 **This Week:**
 
-[![kesbeast23's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kesbeast23)](https://github.com/kesbeast23/kesbeast23)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesbeast23&theme=gotham&layout=compact)](https://github.com/kesbeast23/kesbeast23)
 
