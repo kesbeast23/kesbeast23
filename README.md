@@ -36,11 +36,11 @@ Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com/), A software Develo
 
 <!--START_SECTION:waka-->
 ```text
-Dart         19 hrs 32 mins  ████████████████████████░   95.53 % 
-YAML         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-JavaScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Properties   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Dart         16 hrs 59 mins  ████████████████████████░   95.49 % 
+YAML         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Properties   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Groovy       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 <!--END_SECTION:waka-->
 
