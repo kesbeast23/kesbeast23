@@ -36,7 +36,7 @@ Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com/), A software Develo
 
 <!--START_SECTION:waka-->
 ```text
-Dart   9 hrs 50 mins   █████████████████████████   100.00 % 
+Dart   8 hrs 47 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
