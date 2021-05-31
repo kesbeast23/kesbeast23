@@ -12,7 +12,6 @@
 <br />
 
 <p>Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com/), A software Developer  based in Gaborone,Botswana.</p>
-
 - 💬 Always up for a chat.
 - 📫 How to reach me: [@KesegoMokgosi](https://twitter.com/KesegoMokgosi);
 
