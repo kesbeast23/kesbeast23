@@ -40,6 +40,6 @@ XML     2 mins          ░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=kesbeast23&show_icons=true&theme=gotham" alt="kesbeast23" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=kesbeast23&show_icons=false&theme=gotham" alt="kesbeast23" />
 
 
