@@ -33,7 +33,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart   8 hrs 30 mins   █████████████████████████   99.98 % 
+Dart   7 hrs 46 mins   █████████████████████████   99.98 % 
 ```
 <!--END_SECTION:waka-->
 
