@@ -34,7 +34,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other        2 hrs 5 mins    ██████████████░░░░░░░░░░░   56.45 %
+JavaScript   2 hrs 43 mins   █████████░░░░░░░░░░░░░░░░   36.38 %
+Dart         2 hrs 30 mins   ████████▒░░░░░░░░░░░░░░░░   33.62 %
+Other        2 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   28.10 %
 ```
 
 <!--END_SECTION:waka-->
