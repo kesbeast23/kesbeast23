@@ -1,7 +1,5 @@
 ### Dumelang! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://web.facebook.com/kesego23/">
-  <img align="left" alt="Kesego's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
+
 <a href="https://twitter.com/KesegoMokgosi">
   <img align="left" alt="Kesego Mokgosi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -37,9 +35,5 @@
 JavaScript   17 hrs 22 mins  ███████████████████████▒░   92.78 %
 Other        1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
 ```
-
-<!--END_SECTION:waka-->
-
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=kesbeast23&show_icons=false&theme=gotham" alt="kesbeast23" />
 
 
