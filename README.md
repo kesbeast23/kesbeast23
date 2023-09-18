@@ -1,13 +1,3 @@
-### Dumelang! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://twitter.com/KesegoMokgosi">
-  <img align="left" alt="Kesego Mokgosi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kesego-m-6744b6125/">
-  <img align="left" alt="Kesego Mokgosi | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
 
 <p>Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com), A software Developer  based in Gaborone,Botswana.</p>
 - 💬 Always up for a chat.
