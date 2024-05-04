@@ -1,5 +1,5 @@
 
-<p>Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com), A software Developer  based in Gaborone,Botswana.</p>
+<p>Hi, I'm [Kesego Mokgosi](https://kesegomokgosi23.medium.com), Currently in Dublin,Ireland</p>
 - 💬 Always up for a chat.
 - 📫 How to reach me: [@KesegoMokgosi](https://twitter.com/KesegoMokgosi);
 
